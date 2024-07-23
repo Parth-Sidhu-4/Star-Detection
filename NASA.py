@@ -4,7 +4,7 @@ import random
 import numpy as np
 
 # Flickr API key and album ID
-flickr_api_key = "671e6707a8352bc16968a743b8bac60e"
+flickr_api_key = "YOUR_API_KEY"
 album_id = "72157698290709165"
 
 
