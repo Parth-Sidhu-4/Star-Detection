@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/star-detection.git
+    git clone https://github.com/Parth-Sidhu-4/Star-Detection.git
     cd star-detection
     ```
 
